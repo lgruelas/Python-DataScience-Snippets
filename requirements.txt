@@ -1,0 +1,5 @@
+setuptools
+pytest
+numpy
+pandas
+wheel
