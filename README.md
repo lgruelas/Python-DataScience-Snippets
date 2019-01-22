@@ -93,3 +93,6 @@ This project is licensed under the GPL 3 License - see the [LICENSE.md](LICENSE.
 I'm starting it
 
 ## List of algorithms
+
+* Simple Perceptron
+
