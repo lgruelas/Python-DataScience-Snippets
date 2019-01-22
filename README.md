@@ -94,5 +94,5 @@ I'm starting it
 
 ## List of algorithms
 
-* Simple Perceptron
+* (Simple Perceptron)[https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/Perceptron]
 
