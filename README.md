@@ -94,5 +94,11 @@ I'm starting it
 
 ## List of algorithms
 
+### Artificial Neural Networks
 * [Simple Perceptron](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/Perceptron)
+* [Adaline] (https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/)
+
+### Other
+* [One Versus All classification](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/Perceptron)
+* [K-folds Cross Validation] (https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/)
 
