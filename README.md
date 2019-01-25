@@ -96,9 +96,9 @@ I'm starting it
 
 ### Artificial Neural Networks
 * [Simple Perceptron](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/Perceptron)
-* [Adaline] (https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/)
+* [Adaline](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/)
 
 ### Other
 * [One Versus All classification](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/Perceptron)
-* [K-folds Cross Validation] (https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/)
+* [K-folds Cross Validation](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/)
 
