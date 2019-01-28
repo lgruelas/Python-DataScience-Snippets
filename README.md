@@ -15,7 +15,7 @@ You can choose to install the function package locally or in a virtualenv, bello
 ### Prerequisites
 
 * Linux
-* Python 3.6
+* Python 2.7
 * Matplotlib
 * Numpy
 * Pytest
@@ -51,7 +51,7 @@ pip install --user virtualenv
 then create the virtualenv in the main folder (Python-DataScience-Snippets)
 
 ```
-virtualenv -p python3 virtualenv_fortest
+virtualenv -p python virtualenv_fortest
 ```
 
 Every time you want to use the project, you must activate it
@@ -90,7 +90,7 @@ This project is licensed under the GPL 3 License - see the [LICENSE.md](LICENSE.
 
 ## Project Status
 
-I'm starting it
+I'm starting it, When I have enought time I will migrate everything to python 3.
 
 ## List of algorithms
 
