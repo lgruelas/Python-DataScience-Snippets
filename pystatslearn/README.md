@@ -9,7 +9,7 @@ Here will be only simple math functions like _sigmoid funtion_, statistic functi
 
 ## Getting Started
 
-See https://github.com/lgruelas/Python-DataScience-Snippets/blob/master/README.md for instructions on how to set up this package in a virtualenv in case you don't want to install it locally.
+See this [README](https://github.com/lgruelas/Python-DataScience-Snippets/blob/master/README.md) for instructions on how to set up this package in a virtualenv in case you don't want to install it locally.
 
 ### Fuctions
 

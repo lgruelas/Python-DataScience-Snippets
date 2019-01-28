@@ -96,7 +96,7 @@ I'm starting it, when I have enough time I will migrate it to __Python 3__.
 
 ### Artificial Neural Networks
 * [Simple Perceptron](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/Perceptron)
-* [Adaline] (https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/)
+* [Adaline](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/)
 
 ### Other
 * [One Versus All classification](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/Perceptron)
