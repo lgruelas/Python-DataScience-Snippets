@@ -36,7 +36,7 @@ pip install --user pytest
 Install the package with 
 ```
 ```
-now you can just import it with `import simpleStatsFunc`
+now you can just import it with `import pystatslearn`
 
 ### Virtual Enviroment instructions
 
@@ -90,7 +90,7 @@ This project is licensed under the GPL 3 License - see the [LICENSE.md](LICENSE.
 
 ## Project Status
 
-I'm starting it
+I'm starting it, when I have enough time I will migrate it to __Python 3__.
 
 ## List of algorithms
 
@@ -100,5 +100,5 @@ I'm starting it
 
 ### Other
 * [One Versus All classification](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/Perceptron)
-* [K-folds Cross Validation] (https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/)
+* [K-folds Cross Validation](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/)
 
