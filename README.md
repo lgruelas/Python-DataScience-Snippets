@@ -6,7 +6,7 @@ Python snippets for Machine Learning, Statistics and in general Data Science met
 
 With this said, I want to clarify that the use of these codes is not convinient in a real world problem (for that already exist tons of wonderfull libraries), I only reccomend it to studie porpouses. 
 
-I have done this to my better understanding, but I made it public in case that these code could help someone else to understand an algorithm.
+I have done this to my better understanding, but I made it public in case that this code could help someone else to understand an algorithm.
 
 ## Getting Started
 
@@ -15,52 +15,46 @@ You can choose to install the function package locally or in a virtualenv, bello
 ### Prerequisites
 
 * Linux
-* Python 3.6
+* Python 2.7
+* virtualenv --In case you want to use it
+
+This ones should get installed in the way, but if not, install them manually (I describe how in the next steps).
+
 * Matplotlib
 * Numpy
 * Pytest
-* virtualenv --In case you want to use it
-
-### Local instructions
-
-Python and dependencies:
-```
-sudo dnf -y install python
-sudo dnf -y install pip
-pip istall --user numpy
-pip install --user matplotlib
-pip install --user pytest
-```
-
-### Installing
-Install the package with 
-```
-```
-now you can just import it with `import pystatslearn`
 
 ### Virtual Enviroment instructions
 
-First you need no install virtualenv
+__Recommended__
+
+First you need no install python and virtualenv
 
 ```
-sudo dnf -y install python
-sudo dnf -y install pip
-pip install --user virtualenv
+sudo dnf -y install python2
+sudo dnf -y install python2-pip
+pip2 install --user virtualenv
 ```
 
 then create the virtualenv in the main folder (Python-DataScience-Snippets)
 
 ```
-virtualenv -p python3 virtualenv_fortest
+virtualenv -p python2 virtualenv_fortest
 ```
 
-Every time you want to use the project, you must activate it
+Every time you want to use the project, you must activate it with:
 
 ```
 source virtualenv_forest/bin/activate
 ```
 
-then you can install the dependencies
+and then install the package with
+```
+chmod +x setpu.sh
+./setup.sh
+```
+
+If something goes wrong, please try install the dependencies manually:
 
 ```
 pip istall numpy
@@ -68,11 +62,43 @@ pip install matplotlib
 pip install pytest
 ```
 
-and then install the package with
+to check the installation use:
 ```
+python
+import pystatslearn
 ```
 
 to deactive the virtualenv just type `deactivate`
+
+### Local instructions
+
+Python and dependencies:
+```
+sudo dnf -y install python2
+sudo dnf -y install python2-pip
+```
+
+### Installing
+Install the package with 
+```
+chmod -x setup.sh
+./setup.sh
+```
+
+If something goes wrong, please try install the dependencies manually:
+
+```
+pip2 istall --user numpy
+pip2 install --user matplotlib
+pip2 install --user pytest
+```
+
+to check the installation use:
+```
+python2
+import pystatslib
+```
+
 ## Built With
 
 * [Python](https://www.python.org/downloads/)
