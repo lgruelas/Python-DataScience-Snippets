@@ -8,6 +8,21 @@ With this said, I want to clarify that the use of these codes is not convinient 
 
 I have done this to my better understanding, but I made it public in case that this code could help someone else to understand an algorithm.
 
+## Table of contents
+
+1. [Getting Started](#Getting-Started)
+    1. [Prerequisites](#prerequisites)
+    2. [Virtual Enviroment instructions](#virtual)
+    3. [Local instructions](#local)
+    4. [Installing](#installing)
+2. [Built With](#built)
+3. [Authors](#authors)
+4. [License](#license)
+5. [Project status](#project)
+6. [List of Algorithms](#list)
+    1. [ANN](#ann)
+    2. [Other](#other)
+
 ## Getting Started
 
 You can choose to install the function package locally or in a virtualenv, bellow are the instuctions for the virtualenv.

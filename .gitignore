@@ -1,4 +1,4 @@
-.pyc
+*.pyc
 .pytest_cache/
 .directory
 virtualenv_fortest/
