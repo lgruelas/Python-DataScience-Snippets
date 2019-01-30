@@ -12,15 +12,15 @@ I have done this to my better understanding, but I made it public in case that t
 
 1. [Getting Started](#Getting-Started)
     1. [Prerequisites](#prerequisites)
-    2. [Virtual Enviroment instructions](#virtual)
-    3. [Local instructions](#local)
+    2. [Virtual Enviroment instructions](#virtual-enviroment-instructions)
+    3. [Local instructions](#local-instructions)
     4. [Installing](#installing)
-2. [Built With](#built)
+2. [Built With](#built-with)
 3. [Authors](#authors)
 4. [License](#license)
-5. [Project status](#project)
-6. [List of Algorithms](#list)
-    1. [ANN](#ann)
+5. [Project status](#project-status)
+6. [List of Algorithms](#list-of-algorithms)
+    1. [ANN](#artificial-neural-networks)
     2. [Other](#other)
 
 ## Getting Started
