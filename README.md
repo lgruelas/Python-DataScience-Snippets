@@ -137,9 +137,10 @@ I'm starting it, when I have enough time I will migrate it to __Python 3__.
 
 ### Artificial Neural Networks
 * [Simple Perceptron](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/Perceptron)
-* [Adaline](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/)
-
+* [Adaline](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/Adaline)
+* [Multi Layer Perceptron](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/MLP)
 ### Other
 * [One Versus All classification](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/Perceptron)
-* [K-folds Cross Validation](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/)
+* [K-folds Cross Validation](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/Adaline)
+* [One hot encoding](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/MLP)
 
