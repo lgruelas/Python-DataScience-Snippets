@@ -4,7 +4,7 @@
 
 Python snippets for Machine Learning, Statistics and in general Data Science methods. I will avoid, as far as I can, the use of libraries like spicy, sklearn, etc. The porpouse of this repository is to give a easy to understand resource for algorithms implementations, using only numpy and pandas to manage the data and an implementation from scratch.
 
-With this said, I want to clarify that the use of these codes is not convinient in a real world problem (for that already exist tons of wonderfull libraries), I only reccomend it to studie porpouses. 
+With this said, I want to clarify that the use of these codes is not convinient in a real world problem (for that already exist tons of wonderfull libraries), I only reccomend it to studie porpouses.
 
 I have done this to my better understanding, but I made it public in case that this code could help someone else to understand an algorithm.
 
@@ -20,8 +20,9 @@ I have done this to my better understanding, but I made it public in case that t
 4. [License](#license)
 5. [Project status](#project-status)
 6. [List of Algorithms](#list-of-algorithms)
-    1. [ANN](#artificial-neural-networks)
-    2. [Other](#other)
+    * [ANN](#artificial-neural-networks)
+    * [EC](#evolutionary-computing)
+    * [Other](#other)
 
 ## Getting Started
 
@@ -94,7 +95,7 @@ sudo dnf -y install python2-pip
 ```
 
 ### Installing
-Install the package with 
+Install the package with:
 ```
 chmod -x setup.sh
 ./setup.sh
@@ -139,12 +140,15 @@ I'm starting it, when I have enough time I will migrate it to __Python 3__.
 * [Simple Perceptron](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/Perceptron)
 * [Adaline](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/Adaline)
 * [Multi Layer Perceptron](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/MLP)
+
+### Evolutionary Computing
+* [Particle Swarn Optimization](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/EC/PSO)
+
 ### Other
 * [One Versus All classification](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/Perceptron)
 * [K-folds Cross Validation](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/Adaline)
 * [One hot encoding](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/ANN/MLP)
 
-
 ### To implement next
 * Differential Evolution
-* Particle Swarm Optimization
+* Logistic Regression
