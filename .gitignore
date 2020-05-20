@@ -4,3 +4,4 @@
 virtualenv_fortest/
 .egg-info
 .vscode
+venv/

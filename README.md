@@ -19,7 +19,8 @@ I have done this to my better understanding, but I made it public in case that t
 3. [Authors](#authors)
 4. [License](#license)
 5. [Project status](#project-status)
-6. [List of Algorithms](#list-of-algorithms)
+6. [List of Data Structures](#list-of-data-structures)
+7. [List of Algorithms](#list-of-algorithms)
     * [ANN](#artificial-neural-networks)
     * [EC](#evolutionary-computing)
     * [Other](#other)
@@ -133,6 +134,9 @@ This project is licensed under the GPL 3 License - see the [LICENSE.md](LICENSE.
 ## Project Status
 
 I'm starting it, when I have enough time I will migrate it to __Python 3__.
+
+## List of Data Structures
+* [Linked List](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/DS/LinkedList.py)
 
 ## List of algorithms
 
