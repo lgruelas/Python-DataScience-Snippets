@@ -3,9 +3,7 @@
 #DATA STRUCTURES FOR PYTHON3
 
 from node import Node
-
-class FlowException(Exception):
-    pass
+from exceptions import FlowException
 
 class Stack:
     def __init__(self, limit=100):

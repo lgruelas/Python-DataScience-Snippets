@@ -136,7 +136,9 @@ This project is licensed under the GPL 3 License - see the [LICENSE.md](LICENSE.
 I'm starting it, when I have enough time I will migrate it to __Python 3__.
 
 ## List of Data Structures
-* [Linked List](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/DS/LinkedList.py)
+* [Linked List](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/DS/linked_list.py)
+* [Stack](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/DS/stack.py)
+* [Queue](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/DS/queue.py)
 
 ## List of algorithms
 

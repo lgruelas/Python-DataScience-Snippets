@@ -15,3 +15,9 @@ class Node:
 
     def set_next_node(self, new_node):
         self._next_node = new_node
+
+    def __repr__(self):
+        if self.get_next_node():
+            return "{}->{}".format(self.get_value(), self.get_next_node().get_value())
+        else:
+            return str(self.get_value())
