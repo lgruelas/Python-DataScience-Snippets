@@ -29,8 +29,11 @@ class LinkedList:
             return current_node.get_value()
         raise IndexError("LinkedList index out of range")
 
+    def is_empty(self):
+        return self._num_elements == 0
+
     def get_head_value(self):
-        if self._num_elements > 0:
+        if not self.is_empty:
             return self._head_node.get_next_node().get_value()
         return None
     

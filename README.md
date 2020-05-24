@@ -139,6 +139,7 @@ I'm starting it, when I have enough time I will migrate it to __Python 3__.
 * [Linked List](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/DS/linked_list.py)
 * [Stack](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/DS/stack.py)
 * [Queue](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/DS/queue.py)
+* [Hash Table](https://github.com/lgruelas/Python-DataScience-Snippets/tree/master/DS/hash_table.py)
 
 ## List of algorithms
 

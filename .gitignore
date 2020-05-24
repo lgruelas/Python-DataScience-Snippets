@@ -5,3 +5,4 @@ virtualenv_fortest/
 .egg-info
 .vscode
 venv/
+__pycache__/
