@@ -5,6 +5,7 @@
 from node import Node
 from exceptions import FlowException
 
+
 class Stack:
     def __init__(self, limit=100):
         self._top_item = None
@@ -25,7 +26,7 @@ class Stack:
         self._top_item = self._top_item.get_next_node()
         self._size -= 1
         return to_return
-    
+
     def peek(self):
         if self.__is_empty():
             raise FlowException("UnderFlow error, the stack is empty")

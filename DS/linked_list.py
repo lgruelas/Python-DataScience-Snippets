@@ -2,15 +2,16 @@
 
 #DATA STRUCTURES FOR PYTHON3
 
+
 class LinkedList:
     class __Node:
         def __init__(self, value, next_node=None):
             self._value = value
             self._next_node = next_node
-        
+
         def get_value(self):
             return self._value
-        
+
         def get_next_node(self):
             return self._next_node
 
@@ -36,7 +37,7 @@ class LinkedList:
         if not self.is_empty:
             return self._head_node.get_next_node().get_value()
         return None
-    
+
     def insert_beggining(self, new_value):
         new_node = LinkedList.__Node(new_value, self._head_node.get_next_node())
         self._head_node.set_next_node(new_node)
@@ -48,8 +49,8 @@ class LinkedList:
         while current_node.get_next_node():
             current_node = current_node.get_next_node()
         current_node.set_next_node(new_node)
-        self._num_elements += 1 
-        
+        self._num_elements += 1
+
     def insert(self, value, index):
         new_node = LinkedList.__Node(value)
         if index >= 0 and index < self._num_elements:
@@ -58,7 +59,7 @@ class LinkedList:
                 current_node = current_node.get_next_node()
             new_node.set_next_node(current_node.get_next_node())
             current_node.set_next_node(new_node)
-            self._num_elements += 1 
+            self._num_elements += 1
         else:
             raise IndexError("LinkedList index out of range")
 
@@ -83,7 +84,7 @@ class LinkedList:
                 self._num_elements -= 1
                 break
             current_node = current_node.get_next_node()
-        
+
     def to_string(self):
         values_list = []
         current_node = self._head_node.get_next_node()

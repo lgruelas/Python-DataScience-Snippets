@@ -5,6 +5,7 @@
 from node import Node
 from exceptions import FlowException
 
+
 class Queue:
     def __init__(self, limit=None):
         self._head_node = None
@@ -45,6 +46,6 @@ class Queue:
         if self._limit:
             return self._size < self._limit
         return True
-    
+
     def __is_empty(self):
         return self._size == 0
